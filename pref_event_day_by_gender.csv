@@ -1,0 +1,17 @@
+Gender,pref_days,counts
+Female,Thursdays,5
+Female,Fridays,4
+Female,Tuesdays,4
+Female,Wednesdays,4
+Female,Saturdays,3
+Female,Mondays,2
+Female,Sundays,2
+Male,Thursdays,13
+Male,Tuesdays,12
+Male,Wednesdays,12
+Male,Fridays,10
+Male,Mondays,5
+Male,Saturdays,4
+Male,Sundays,3
+Non-binary,Fridays,1
+Non-binary,Mondays,1
