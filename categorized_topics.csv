@@ -1,0 +1,322 @@
+id,index,Event Date,Pref_days,pref_times,pref_topic,Pref_days_cleaned,pref_times_cleaned,pref_topic_cleaned,category,final_category
+6719865025,0,2024-05-28,Thursdays,4pm - 6pm,.,Thursdays,4pm - 6pm,,uncategorized,uncategorized
+6719865025,0,2024-05-28, Wednesdays,4pm - 6pm,.,Wednesdays,4pm - 6pm,,uncategorized,uncategorized
+6719865025,0,2024-05-28, Tuesdays,4pm - 6pm,.,Tuesdays,4pm - 6pm,,uncategorized,uncategorized
+6720233952,1,2024-05-28,Tuesdays,6pm - 8pm,Networking,Tuesdays,6pm - 8pm,networking,networking,networking
+6720554800,2,2024-05-28,Fridays,2pm - 4pm,Entrepeneur/Startups,Fridays,2pm - 4pm,entrepreneurstartups,startup & entrepreneurship,startup & entrepreneurship
+6720554800,2,2024-05-28,Fridays, 4pm - 6pm,Entrepeneur/Startups,Fridays,4pm - 6pm,entrepreneurstartups,startup & entrepreneurship,startup & entrepreneurship
+6720554800,2,2024-05-28, Saturdays,2pm - 4pm,Entrepeneur/Startups,Saturdays,2pm - 4pm,entrepreneurstartups,startup & entrepreneurship,startup & entrepreneurship
+6720554800,2,2024-05-28, Saturdays, 4pm - 6pm,Entrepeneur/Startups,Saturdays,4pm - 6pm,entrepreneurstartups,startup & entrepreneurship,startup & entrepreneurship
+6720554947,3,2024-05-28,Saturdays,4pm - 6pm,Startups,Saturdays,4pm - 6pm,startups,startup & entrepreneurship,startup & entrepreneurship
+6720554947,3,2024-05-28,Saturdays, 12pm - 2pm,Startups,Saturdays,12pm - 2pm,startups,startup & entrepreneurship,startup & entrepreneurship
+6720554947,3,2024-05-28, Sundays,4pm - 6pm,Startups,Sundays,4pm - 6pm,startups,startup & entrepreneurship,startup & entrepreneurship
+6720554947,3,2024-05-28, Sundays, 12pm - 2pm,Startups,Sundays,12pm - 2pm,startups,startup & entrepreneurship,startup & entrepreneurship
+6720554947,3,2024-05-28, Fridays,4pm - 6pm,Startups,Fridays,4pm - 6pm,startups,startup & entrepreneurship,startup & entrepreneurship
+6720554947,3,2024-05-28, Fridays, 12pm - 2pm,Startups,Fridays,12pm - 2pm,startups,startup & entrepreneurship,startup & entrepreneurship
+6731154293,4,2024-05-28,Mondays,9am - 12pm,Any topic,Mondays,9am - 12pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28,Mondays, 4pm - 6pm,Any topic,Mondays,4pm - 6pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28,Mondays, 6pm - 8pm,Any topic,Mondays,6pm - 8pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28, Thursdays,9am - 12pm,Any topic,Thursdays,9am - 12pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28, Thursdays, 4pm - 6pm,Any topic,Thursdays,4pm - 6pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28, Thursdays, 6pm - 8pm,Any topic,Thursdays,6pm - 8pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28, Fridays,9am - 12pm,Any topic,Fridays,9am - 12pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28, Fridays, 4pm - 6pm,Any topic,Fridays,4pm - 6pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28, Fridays, 6pm - 8pm,Any topic,Fridays,6pm - 8pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28, Saturdays,9am - 12pm,Any topic,Saturdays,9am - 12pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28, Saturdays, 4pm - 6pm,Any topic,Saturdays,4pm - 6pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28, Saturdays, 6pm - 8pm,Any topic,Saturdays,6pm - 8pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28, Sundays,9am - 12pm,Any topic,Sundays,9am - 12pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28, Sundays, 4pm - 6pm,Any topic,Sundays,4pm - 6pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28, Sundays, 6pm - 8pm,Any topic,Sundays,6pm - 8pm,any topic,uncategorized,uncategorized
+6731178091,5,2024-05-28,Mondays,12pm - 2pm,Anything related to UX designs and cool ideas,Mondays,12pm - 2pm,anything related to ux designs and cool ideas,ux & design,ux & design
+6731178091,5,2024-05-28,Mondays, 2pm - 4pm,Anything related to UX designs and cool ideas,Mondays,2pm - 4pm,anything related to ux designs and cool ideas,ux & design,ux & design
+6731178091,5,2024-05-28,Mondays, 4pm - 6pm,Anything related to UX designs and cool ideas,Mondays,4pm - 6pm,anything related to ux designs and cool ideas,ux & design,ux & design
+6731178091,5,2024-05-28, Tuesdays,12pm - 2pm,Anything related to UX designs and cool ideas,Tuesdays,12pm - 2pm,anything related to ux designs and cool ideas,ux & design,ux & design
+6731178091,5,2024-05-28, Tuesdays, 2pm - 4pm,Anything related to UX designs and cool ideas,Tuesdays,2pm - 4pm,anything related to ux designs and cool ideas,ux & design,ux & design
+6731178091,5,2024-05-28, Tuesdays, 4pm - 6pm,Anything related to UX designs and cool ideas,Tuesdays,4pm - 6pm,anything related to ux designs and cool ideas,ux & design,ux & design
+6731178091,5,2024-05-28, Wednesdays,12pm - 2pm,Anything related to UX designs and cool ideas,Wednesdays,12pm - 2pm,anything related to ux designs and cool ideas,ux & design,ux & design
+6731178091,5,2024-05-28, Wednesdays, 2pm - 4pm,Anything related to UX designs and cool ideas,Wednesdays,2pm - 4pm,anything related to ux designs and cool ideas,ux & design,ux & design
+6731178091,5,2024-05-28, Wednesdays, 4pm - 6pm,Anything related to UX designs and cool ideas,Wednesdays,4pm - 6pm,anything related to ux designs and cool ideas,ux & design,ux & design
+6731178091,5,2024-05-28, Thursdays,12pm - 2pm,Anything related to UX designs and cool ideas,Thursdays,12pm - 2pm,anything related to ux designs and cool ideas,ux & design,ux & design
+6731178091,5,2024-05-28, Thursdays, 2pm - 4pm,Anything related to UX designs and cool ideas,Thursdays,2pm - 4pm,anything related to ux designs and cool ideas,ux & design,ux & design
+6731178091,5,2024-05-28, Thursdays, 4pm - 6pm,Anything related to UX designs and cool ideas,Thursdays,4pm - 6pm,anything related to ux designs and cool ideas,ux & design,ux & design
+6731178091,5,2024-05-28, Fridays,12pm - 2pm,Anything related to UX designs and cool ideas,Fridays,12pm - 2pm,anything related to ux designs and cool ideas,ux & design,ux & design
+6731178091,5,2024-05-28, Fridays, 2pm - 4pm,Anything related to UX designs and cool ideas,Fridays,2pm - 4pm,anything related to ux designs and cool ideas,ux & design,ux & design
+6731178091,5,2024-05-28, Fridays, 4pm - 6pm,Anything related to UX designs and cool ideas,Fridays,4pm - 6pm,anything related to ux designs and cool ideas,ux & design,ux & design
+6784626194,6,2024-06-06,Mondays,2pm - 4pm,Business development,Mondays,2pm - 4pm,business development,business,business
+6785305423,7,2024-06-06,Thursdays,4pm - 6pm,Business,Thursdays,4pm - 6pm,business,business,business
+6785342471,8,2024-06-06,Tuesdays,4pm - 6pm,Tech AI Marketing Business Development,Tuesdays,4pm - 6pm,tech ai marketing business development,tech,tech
+6785342471,8,2024-06-06,Tuesdays, 6pm - 8pm,Tech AI Marketing Business Development,Tuesdays,6pm - 8pm,tech ai marketing business development,tech,tech
+6785342471,8,2024-06-06, Wednesdays,4pm - 6pm,Tech AI Marketing Business Development,Wednesdays,4pm - 6pm,tech ai marketing business development,tech,tech
+6785342471,8,2024-06-06, Wednesdays, 6pm - 8pm,Tech AI Marketing Business Development,Wednesdays,6pm - 8pm,tech ai marketing business development,tech,tech
+6785342471,8,2024-06-06, Thursdays,4pm - 6pm,Tech AI Marketing Business Development,Thursdays,4pm - 6pm,tech ai marketing business development,tech,tech
+6785342471,8,2024-06-06, Thursdays, 6pm - 8pm,Tech AI Marketing Business Development,Thursdays,6pm - 8pm,tech ai marketing business development,tech,tech
+6785453123,9,2024-06-06,Tuesdays,9am - 12pm,Matching companies and people who has required expertise,Tuesdays,9am - 12pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06,Tuesdays, 2pm - 4pm,Matching companies and people who has required expertise,Tuesdays,2pm - 4pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06,Tuesdays, 12pm - 2pm,Matching companies and people who has required expertise,Tuesdays,12pm - 2pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06,Tuesdays, 4pm - 6pm,Matching companies and people who has required expertise,Tuesdays,4pm - 6pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06,Tuesdays, 6pm - 8pm,Matching companies and people who has required expertise,Tuesdays,6pm - 8pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Mondays,9am - 12pm,Matching companies and people who has required expertise,Mondays,9am - 12pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Mondays, 2pm - 4pm,Matching companies and people who has required expertise,Mondays,2pm - 4pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Mondays, 12pm - 2pm,Matching companies and people who has required expertise,Mondays,12pm - 2pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Mondays, 4pm - 6pm,Matching companies and people who has required expertise,Mondays,4pm - 6pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Mondays, 6pm - 8pm,Matching companies and people who has required expertise,Mondays,6pm - 8pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Wednesdays,9am - 12pm,Matching companies and people who has required expertise,Wednesdays,9am - 12pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Wednesdays, 2pm - 4pm,Matching companies and people who has required expertise,Wednesdays,2pm - 4pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Wednesdays, 12pm - 2pm,Matching companies and people who has required expertise,Wednesdays,12pm - 2pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Wednesdays, 4pm - 6pm,Matching companies and people who has required expertise,Wednesdays,4pm - 6pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Wednesdays, 6pm - 8pm,Matching companies and people who has required expertise,Wednesdays,6pm - 8pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Thursdays,9am - 12pm,Matching companies and people who has required expertise,Thursdays,9am - 12pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Thursdays, 2pm - 4pm,Matching companies and people who has required expertise,Thursdays,2pm - 4pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Thursdays, 12pm - 2pm,Matching companies and people who has required expertise,Thursdays,12pm - 2pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Thursdays, 4pm - 6pm,Matching companies and people who has required expertise,Thursdays,4pm - 6pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Thursdays, 6pm - 8pm,Matching companies and people who has required expertise,Thursdays,6pm - 8pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Fridays,9am - 12pm,Matching companies and people who has required expertise,Fridays,9am - 12pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Fridays, 2pm - 4pm,Matching companies and people who has required expertise,Fridays,2pm - 4pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Fridays, 12pm - 2pm,Matching companies and people who has required expertise,Fridays,12pm - 2pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Fridays, 4pm - 6pm,Matching companies and people who has required expertise,Fridays,4pm - 6pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Fridays, 6pm - 8pm,Matching companies and people who has required expertise,Fridays,6pm - 8pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Saturdays,9am - 12pm,Matching companies and people who has required expertise,Saturdays,9am - 12pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Saturdays, 2pm - 4pm,Matching companies and people who has required expertise,Saturdays,2pm - 4pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Saturdays, 12pm - 2pm,Matching companies and people who has required expertise,Saturdays,12pm - 2pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Saturdays, 4pm - 6pm,Matching companies and people who has required expertise,Saturdays,4pm - 6pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Saturdays, 6pm - 8pm,Matching companies and people who has required expertise,Saturdays,6pm - 8pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Sundays,9am - 12pm,Matching companies and people who has required expertise,Sundays,9am - 12pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Sundays, 2pm - 4pm,Matching companies and people who has required expertise,Sundays,2pm - 4pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Sundays, 12pm - 2pm,Matching companies and people who has required expertise,Sundays,12pm - 2pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Sundays, 4pm - 6pm,Matching companies and people who has required expertise,Sundays,4pm - 6pm,matching companies and people who has required expertise,networking,networking
+6785453123,9,2024-06-06, Sundays, 6pm - 8pm,Matching companies and people who has required expertise,Sundays,6pm - 8pm,matching companies and people who has required expertise,networking,networking
+6785480613,10,2024-06-06,Fridays,4pm - 6pm,Business ideas,Fridays,4pm - 6pm,business ideas,business,business
+6785515166,11,2024-06-06,Thursdays,4pm - 6pm,Entrepreneurship,Thursdays,4pm - 6pm,entrepreneurship,startup & entrepreneurship,startup & entrepreneurship
+6785515166,11,2024-06-06, Wednesdays,4pm - 6pm,Entrepreneurship,Wednesdays,4pm - 6pm,entrepreneurship,startup & entrepreneurship,startup & entrepreneurship
+6785515166,11,2024-06-06, Tuesdays,4pm - 6pm,Entrepreneurship,Tuesdays,4pm - 6pm,entrepreneurship,startup & entrepreneurship,startup & entrepreneurship
+6785524973,12,2024-06-06,Wednesdays,12pm - 2pm,Anything,Wednesdays,12pm - 2pm,anything,ux & design,ux & design
+6785529114,13,2024-06-06,Wednesdays,12pm - 2pm,Business,Wednesdays,12pm - 2pm,business,business,business
+6785720449,14,2024-06-06,Thursdays,4pm - 6pm,Funding,Thursdays,4pm - 6pm,funding,finance & legal,finance & legal
+6785720449,14,2024-06-06,Thursdays,4pm - 6pm, partnership,Thursdays,4pm - 6pm,partnership,startup & entrepreneurship,startup & entrepreneurship
+6785720449,14,2024-06-06,Thursdays, 2pm - 4pm,Funding,Thursdays,2pm - 4pm,funding,finance & legal,finance & legal
+6785720449,14,2024-06-06,Thursdays, 2pm - 4pm, partnership,Thursdays,2pm - 4pm,partnership,startup & entrepreneurship,startup & entrepreneurship
+6785720449,14,2024-06-06,Thursdays, 6pm - 8pm,Funding,Thursdays,6pm - 8pm,funding,finance & legal,finance & legal
+6785720449,14,2024-06-06,Thursdays, 6pm - 8pm, partnership,Thursdays,6pm - 8pm,partnership,startup & entrepreneurship,startup & entrepreneurship
+6785720449,14,2024-06-06, Wednesdays,4pm - 6pm,Funding,Wednesdays,4pm - 6pm,funding,finance & legal,finance & legal
+6785720449,14,2024-06-06, Wednesdays,4pm - 6pm, partnership,Wednesdays,4pm - 6pm,partnership,startup & entrepreneurship,startup & entrepreneurship
+6785720449,14,2024-06-06, Wednesdays, 2pm - 4pm,Funding,Wednesdays,2pm - 4pm,funding,finance & legal,finance & legal
+6785720449,14,2024-06-06, Wednesdays, 2pm - 4pm, partnership,Wednesdays,2pm - 4pm,partnership,startup & entrepreneurship,startup & entrepreneurship
+6785720449,14,2024-06-06, Wednesdays, 6pm - 8pm,Funding,Wednesdays,6pm - 8pm,funding,finance & legal,finance & legal
+6785720449,14,2024-06-06, Wednesdays, 6pm - 8pm, partnership,Wednesdays,6pm - 8pm,partnership,startup & entrepreneurship,startup & entrepreneurship
+6785720449,14,2024-06-06, Tuesdays,4pm - 6pm,Funding,Tuesdays,4pm - 6pm,funding,finance & legal,finance & legal
+6785720449,14,2024-06-06, Tuesdays,4pm - 6pm, partnership,Tuesdays,4pm - 6pm,partnership,startup & entrepreneurship,startup & entrepreneurship
+6785720449,14,2024-06-06, Tuesdays, 2pm - 4pm,Funding,Tuesdays,2pm - 4pm,funding,finance & legal,finance & legal
+6785720449,14,2024-06-06, Tuesdays, 2pm - 4pm, partnership,Tuesdays,2pm - 4pm,partnership,startup & entrepreneurship,startup & entrepreneurship
+6785720449,14,2024-06-06, Tuesdays, 6pm - 8pm,Funding,Tuesdays,6pm - 8pm,funding,finance & legal,finance & legal
+6785720449,14,2024-06-06, Tuesdays, 6pm - 8pm, partnership,Tuesdays,6pm - 8pm,partnership,startup & entrepreneurship,startup & entrepreneurship
+7270692924,15,2024-08-21,Tuesdays,6pm - 8pm,Software related,Tuesdays,6pm - 8pm,software related,tech,tech
+7270692924,15,2024-08-21, Wednesdays,6pm - 8pm,Software related,Wednesdays,6pm - 8pm,software related,tech,tech
+7270692924,15,2024-08-21, Thursdays,6pm - 8pm,Software related,Thursdays,6pm - 8pm,software related,tech,tech
+7305850247,16,2024-08-27,Thursdays,2pm - 4pm,Entrepreneurship,Thursdays,2pm - 4pm,entrepreneurship,startup & entrepreneurship,startup & entrepreneurship
+7305850247,16,2024-08-27,Thursdays,2pm - 4pm, invoicing,Thursdays,2pm - 4pm,invoicing,finance & legal,finance & legal
+7305850247,16,2024-08-27,Thursdays,2pm - 4pm, startup life,Thursdays,2pm - 4pm,startup life,startup & entrepreneurship,startup & entrepreneurship
+7415643697,17,2024-09-12,Mondays,9am - 12pm,Start ip,Mondays,9am - 12pm,startup,startup & entrepreneurship,startup & entrepreneurship
+7415653430,18,2024-09-12,Tuesdays,9am - 12pm,Startups,Tuesdays,9am - 12pm,startups,startup & entrepreneurship,startup & entrepreneurship
+7415653430,18,2024-09-12,Tuesdays,9am - 12pm, Entrepreneurs,Tuesdays,9am - 12pm,entrepreneurs,startup & entrepreneurship,startup & entrepreneurship
+7415669984,19,2024-09-12,Fridays,9am - 12pm,Beginig of startup,Fridays,9am - 12pm,beginning of startup,startup & entrepreneurship,startup & entrepreneurship
+7415673883,20,2024-09-12,Thursdays,9am - 12pm,Knowledge exchanges and networking,Thursdays,9am - 12pm,knowledge exchanges and networking,networking,networking
+7415708489,21,2024-09-12,Fridays,4pm - 6pm,startup creation stories,Fridays,4pm - 6pm,startup creation stories,startup & entrepreneurship,startup & entrepreneurship
+7415708489,21,2024-09-12, Saturdays,4pm - 6pm,startup creation stories,Saturdays,4pm - 6pm,startup creation stories,startup & entrepreneurship,startup & entrepreneurship
+7415716921,22,2024-09-12,Thursdays,4pm - 6pm,Networking,Thursdays,4pm - 6pm,networking,networking,networking
+7416480639,23,2024-09-12,Thursdays,12pm - 2pm,Technology,Thursdays,12pm - 2pm,technology,tech,tech
+7419107040,24,2024-09-12,Wednesdays,4pm - 6pm,Entrepreneurship journey,Wednesdays,4pm - 6pm,entrepreneurship journey,startup & entrepreneurship,startup & entrepreneurship
+7419107040,24,2024-09-12,Wednesdays,4pm - 6pm, lessons learned,Wednesdays,4pm - 6pm,lessons learned,startup & entrepreneurship,startup & entrepreneurship
+7419107040,24,2024-09-12,Wednesdays,4pm - 6pm, success stories,Wednesdays,4pm - 6pm,success stories,startup & entrepreneurship,startup & entrepreneurship
+7419107040,24,2024-09-12,Wednesdays,4pm - 6pm, how to start,Wednesdays,4pm - 6pm,how to start,startup & entrepreneurship,startup & entrepreneurship
+7419107040,24,2024-09-12, Thursdays,4pm - 6pm,Entrepreneurship journey,Thursdays,4pm - 6pm,entrepreneurship journey,startup & entrepreneurship,startup & entrepreneurship
+7419107040,24,2024-09-12, Thursdays,4pm - 6pm, lessons learned,Thursdays,4pm - 6pm,lessons learned,startup & entrepreneurship,startup & entrepreneurship
+7419107040,24,2024-09-12, Thursdays,4pm - 6pm, success stories,Thursdays,4pm - 6pm,success stories,startup & entrepreneurship,startup & entrepreneurship
+7419107040,24,2024-09-12, Thursdays,4pm - 6pm, how to start,Thursdays,4pm - 6pm,how to start,startup & entrepreneurship,startup & entrepreneurship
+7574451127,25,2024-09-17,Tuesdays,4pm - 6pm,Rules and regulations as a employer/entrepreneur,Tuesdays,4pm - 6pm,rules and regulations as a employerentrepreneur,startup & entrepreneurship,startup & entrepreneurship
+7574451127,25,2024-09-17,Tuesdays,4pm - 6pm, funding,Tuesdays,4pm - 6pm,funding,finance & legal,finance & legal
+7574452983,26,2024-09-17,Mondays,4pm - 6pm,Start_up related,Mondays,4pm - 6pm,start_up related,startup & entrepreneurship,startup & entrepreneurship
+7574452983,26,2024-09-17, Tuesdays,4pm - 6pm,Start_up related,Tuesdays,4pm - 6pm,start_up related,startup & entrepreneurship,startup & entrepreneurship
+7574452983,26,2024-09-17, Wednesdays,4pm - 6pm,Start_up related,Wednesdays,4pm - 6pm,start_up related,startup & entrepreneurship,startup & entrepreneurship
+7574452983,26,2024-09-17, Thursdays,4pm - 6pm,Start_up related,Thursdays,4pm - 6pm,start_up related,startup & entrepreneurship,startup & entrepreneurship
+7574452983,26,2024-09-17, Fridays,4pm - 6pm,Start_up related,Fridays,4pm - 6pm,start_up related,startup & entrepreneurship,startup & entrepreneurship
+7574456170,27,2024-09-17,Tuesdays,2pm - 4pm,Experienced speakers,Tuesdays,2pm - 4pm,experienced speakers,ux & design,ux & design
+7574456170,27,2024-09-17,Tuesdays,2pm - 4pm, business theories and models,Tuesdays,2pm - 4pm,business theories and models,business,business
+7574456170,27,2024-09-17,Tuesdays,2pm - 4pm, trends,Tuesdays,2pm - 4pm,trends,uncategorized,uncategorized
+7574456170,27,2024-09-17,Tuesdays, 4pm - 6pm,Experienced speakers,Tuesdays,4pm - 6pm,experienced speakers,ux & design,ux & design
+7574456170,27,2024-09-17,Tuesdays, 4pm - 6pm, business theories and models,Tuesdays,4pm - 6pm,business theories and models,business,business
+7574456170,27,2024-09-17,Tuesdays, 4pm - 6pm, trends,Tuesdays,4pm - 6pm,trends,uncategorized,uncategorized
+7574456170,27,2024-09-17,Tuesdays, 6pm - 8pm,Experienced speakers,Tuesdays,6pm - 8pm,experienced speakers,ux & design,ux & design
+7574456170,27,2024-09-17,Tuesdays, 6pm - 8pm, business theories and models,Tuesdays,6pm - 8pm,business theories and models,business,business
+7574456170,27,2024-09-17,Tuesdays, 6pm - 8pm, trends,Tuesdays,6pm - 8pm,trends,uncategorized,uncategorized
+7574456170,27,2024-09-17, Thursdays,2pm - 4pm,Experienced speakers,Thursdays,2pm - 4pm,experienced speakers,ux & design,ux & design
+7574456170,27,2024-09-17, Thursdays,2pm - 4pm, business theories and models,Thursdays,2pm - 4pm,business theories and models,business,business
+7574456170,27,2024-09-17, Thursdays,2pm - 4pm, trends,Thursdays,2pm - 4pm,trends,uncategorized,uncategorized
+7574456170,27,2024-09-17, Thursdays, 4pm - 6pm,Experienced speakers,Thursdays,4pm - 6pm,experienced speakers,ux & design,ux & design
+7574456170,27,2024-09-17, Thursdays, 4pm - 6pm, business theories and models,Thursdays,4pm - 6pm,business theories and models,business,business
+7574456170,27,2024-09-17, Thursdays, 4pm - 6pm, trends,Thursdays,4pm - 6pm,trends,uncategorized,uncategorized
+7574456170,27,2024-09-17, Thursdays, 6pm - 8pm,Experienced speakers,Thursdays,6pm - 8pm,experienced speakers,ux & design,ux & design
+7574456170,27,2024-09-17, Thursdays, 6pm - 8pm, business theories and models,Thursdays,6pm - 8pm,business theories and models,business,business
+7574456170,27,2024-09-17, Thursdays, 6pm - 8pm, trends,Thursdays,6pm - 8pm,trends,uncategorized,uncategorized
+7574456170,27,2024-09-17, Saturdays,2pm - 4pm,Experienced speakers,Saturdays,2pm - 4pm,experienced speakers,ux & design,ux & design
+7574456170,27,2024-09-17, Saturdays,2pm - 4pm, business theories and models,Saturdays,2pm - 4pm,business theories and models,business,business
+7574456170,27,2024-09-17, Saturdays,2pm - 4pm, trends,Saturdays,2pm - 4pm,trends,uncategorized,uncategorized
+7574456170,27,2024-09-17, Saturdays, 4pm - 6pm,Experienced speakers,Saturdays,4pm - 6pm,experienced speakers,ux & design,ux & design
+7574456170,27,2024-09-17, Saturdays, 4pm - 6pm, business theories and models,Saturdays,4pm - 6pm,business theories and models,business,business
+7574456170,27,2024-09-17, Saturdays, 4pm - 6pm, trends,Saturdays,4pm - 6pm,trends,uncategorized,uncategorized
+7574456170,27,2024-09-17, Saturdays, 6pm - 8pm,Experienced speakers,Saturdays,6pm - 8pm,experienced speakers,ux & design,ux & design
+7574456170,27,2024-09-17, Saturdays, 6pm - 8pm, business theories and models,Saturdays,6pm - 8pm,business theories and models,business,business
+7574456170,27,2024-09-17, Saturdays, 6pm - 8pm, trends,Saturdays,6pm - 8pm,trends,uncategorized,uncategorized
+7574458157,28,2024-09-17,Tuesdays,4pm - 6pm,Sales and personal growth,Tuesdays,4pm - 6pm,sales and personal growth,marketing & sales,marketing & sales
+7574459758,29,2024-09-17,Tuesdays,4pm - 6pm,Networking,Tuesdays,4pm - 6pm,networking,networking,networking
+7574459758,29,2024-09-17, Wednesdays,4pm - 6pm,Networking,Wednesdays,4pm - 6pm,networking,networking,networking
+7574459758,29,2024-09-17, Thursdays,4pm - 6pm,Networking,Thursdays,4pm - 6pm,networking,networking,networking
+7574498432,30,2024-09-17,Wednesdays,4pm - 6pm,nil,Wednesdays,4pm - 6pm,,uncategorized,uncategorized
+7574498432,30,2024-09-17, Thursdays,4pm - 6pm,nil,Thursdays,4pm - 6pm,,uncategorized,uncategorized
+7574498432,30,2024-09-17, Fridays,4pm - 6pm,nil,Fridays,4pm - 6pm,,uncategorized,uncategorized
+7574499508,31,2024-09-17,Thursdays,2pm - 4pm,Networking,Thursdays,2pm - 4pm,networking,networking,networking
+7574499508,31,2024-09-17,Thursdays,2pm - 4pm, ICT,Thursdays,2pm - 4pm,ict,tech,tech
+7574499508,31,2024-09-17,Thursdays, 4pm - 6pm,Networking,Thursdays,4pm - 6pm,networking,networking,networking
+7574499508,31,2024-09-17,Thursdays, 4pm - 6pm, ICT,Thursdays,4pm - 6pm,ict,tech,tech
+7574499508,31,2024-09-17,Thursdays, 6pm - 8pm,Networking,Thursdays,6pm - 8pm,networking,networking,networking
+7574499508,31,2024-09-17,Thursdays, 6pm - 8pm, ICT,Thursdays,6pm - 8pm,ict,tech,tech
+7574499508,31,2024-09-17, Fridays,2pm - 4pm,Networking,Fridays,2pm - 4pm,networking,networking,networking
+7574499508,31,2024-09-17, Fridays,2pm - 4pm, ICT,Fridays,2pm - 4pm,ict,tech,tech
+7574499508,31,2024-09-17, Fridays, 4pm - 6pm,Networking,Fridays,4pm - 6pm,networking,networking,networking
+7574499508,31,2024-09-17, Fridays, 4pm - 6pm, ICT,Fridays,4pm - 6pm,ict,tech,tech
+7574499508,31,2024-09-17, Fridays, 6pm - 8pm,Networking,Fridays,6pm - 8pm,networking,networking,networking
+7574499508,31,2024-09-17, Fridays, 6pm - 8pm, ICT,Fridays,6pm - 8pm,ict,tech,tech
+7574500029,32,2024-09-17,Thursdays,4pm - 6pm,nil,Thursdays,4pm - 6pm,,uncategorized,uncategorized
+7574500620,33,2024-09-17,Wednesdays,2pm - 4pm,nil,Wednesdays,2pm - 4pm,,uncategorized,uncategorized
+7574500620,33,2024-09-17,Wednesdays, 4pm - 6pm,nil,Wednesdays,4pm - 6pm,,uncategorized,uncategorized
+7574502084,34,2024-09-17,Tuesdays,2pm - 4pm,nil,Tuesdays,2pm - 4pm,,uncategorized,uncategorized
+7574502084,34,2024-09-17,Tuesdays, 4pm - 6pm,nil,Tuesdays,4pm - 6pm,,uncategorized,uncategorized
+7574502084,34,2024-09-17,Tuesdays, 6pm - 8pm,nil,Tuesdays,6pm - 8pm,,uncategorized,uncategorized
+7574502084,34,2024-09-17, Wednesdays,2pm - 4pm,nil,Wednesdays,2pm - 4pm,,uncategorized,uncategorized
+7574502084,34,2024-09-17, Wednesdays, 4pm - 6pm,nil,Wednesdays,4pm - 6pm,,uncategorized,uncategorized
+7574502084,34,2024-09-17, Wednesdays, 6pm - 8pm,nil,Wednesdays,6pm - 8pm,,uncategorized,uncategorized
+7574502084,34,2024-09-17, Thursdays,2pm - 4pm,nil,Thursdays,2pm - 4pm,,uncategorized,uncategorized
+7574502084,34,2024-09-17, Thursdays, 4pm - 6pm,nil,Thursdays,4pm - 6pm,,uncategorized,uncategorized
+7574502084,34,2024-09-17, Thursdays, 6pm - 8pm,nil,Thursdays,6pm - 8pm,,uncategorized,uncategorized
+7574503701,35,2024-09-26,Mondays,4pm - 6pm,IT,Mondays,4pm - 6pm,it,tech,tech
+7574503701,35,2024-09-26,Mondays,4pm - 6pm, AI,Mondays,4pm - 6pm,ai,tech,tech
+7574503701,35,2024-09-26,Mondays,4pm - 6pm, Tech,Mondays,4pm - 6pm,tech,tech,tech
+7574503701,35,2024-09-26,Mondays,4pm - 6pm, UX/Psychology based startups,Mondays,4pm - 6pm,uxpsychology based startups,startup & entrepreneurship,startup & entrepreneurship
+7574503701,35,2024-09-26,Mondays, 6pm - 8pm,IT,Mondays,6pm - 8pm,it,tech,tech
+7574503701,35,2024-09-26,Mondays, 6pm - 8pm, AI,Mondays,6pm - 8pm,ai,tech,tech
+7574503701,35,2024-09-26,Mondays, 6pm - 8pm, Tech,Mondays,6pm - 8pm,tech,tech,tech
+7574503701,35,2024-09-26,Mondays, 6pm - 8pm, UX/Psychology based startups,Mondays,6pm - 8pm,uxpsychology based startups,startup & entrepreneurship,startup & entrepreneurship
+7574503701,35,2024-09-26, Tuesdays,4pm - 6pm,IT,Tuesdays,4pm - 6pm,it,tech,tech
+7574503701,35,2024-09-26, Tuesdays,4pm - 6pm, AI,Tuesdays,4pm - 6pm,ai,tech,tech
+7574503701,35,2024-09-26, Tuesdays,4pm - 6pm, Tech,Tuesdays,4pm - 6pm,tech,tech,tech
+7574503701,35,2024-09-26, Tuesdays,4pm - 6pm, UX/Psychology based startups,Tuesdays,4pm - 6pm,uxpsychology based startups,startup & entrepreneurship,startup & entrepreneurship
+7574503701,35,2024-09-26, Tuesdays, 6pm - 8pm,IT,Tuesdays,6pm - 8pm,it,tech,tech
+7574503701,35,2024-09-26, Tuesdays, 6pm - 8pm, AI,Tuesdays,6pm - 8pm,ai,tech,tech
+7574503701,35,2024-09-26, Tuesdays, 6pm - 8pm, Tech,Tuesdays,6pm - 8pm,tech,tech,tech
+7574503701,35,2024-09-26, Tuesdays, 6pm - 8pm, UX/Psychology based startups,Tuesdays,6pm - 8pm,uxpsychology based startups,startup & entrepreneurship,startup & entrepreneurship
+7574503701,35,2024-09-26, Wednesdays,4pm - 6pm,IT,Wednesdays,4pm - 6pm,it,tech,tech
+7574503701,35,2024-09-26, Wednesdays,4pm - 6pm, AI,Wednesdays,4pm - 6pm,ai,tech,tech
+7574503701,35,2024-09-26, Wednesdays,4pm - 6pm, Tech,Wednesdays,4pm - 6pm,tech,tech,tech
+7574503701,35,2024-09-26, Wednesdays,4pm - 6pm, UX/Psychology based startups,Wednesdays,4pm - 6pm,uxpsychology based startups,startup & entrepreneurship,startup & entrepreneurship
+7574503701,35,2024-09-26, Wednesdays, 6pm - 8pm,IT,Wednesdays,6pm - 8pm,it,tech,tech
+7574503701,35,2024-09-26, Wednesdays, 6pm - 8pm, AI,Wednesdays,6pm - 8pm,ai,tech,tech
+7574503701,35,2024-09-26, Wednesdays, 6pm - 8pm, Tech,Wednesdays,6pm - 8pm,tech,tech,tech
+7574503701,35,2024-09-26, Wednesdays, 6pm - 8pm, UX/Psychology based startups,Wednesdays,6pm - 8pm,uxpsychology based startups,startup & entrepreneurship,startup & entrepreneurship
+7574503701,35,2024-09-26, Fridays,4pm - 6pm,IT,Fridays,4pm - 6pm,it,tech,tech
+7574503701,35,2024-09-26, Fridays,4pm - 6pm, AI,Fridays,4pm - 6pm,ai,tech,tech
+7574503701,35,2024-09-26, Fridays,4pm - 6pm, Tech,Fridays,4pm - 6pm,tech,tech,tech
+7574503701,35,2024-09-26, Fridays,4pm - 6pm, UX/Psychology based startups,Fridays,4pm - 6pm,uxpsychology based startups,startup & entrepreneurship,startup & entrepreneurship
+7574503701,35,2024-09-26, Fridays, 6pm - 8pm,IT,Fridays,6pm - 8pm,it,tech,tech
+7574503701,35,2024-09-26, Fridays, 6pm - 8pm, AI,Fridays,6pm - 8pm,ai,tech,tech
+7574503701,35,2024-09-26, Fridays, 6pm - 8pm, Tech,Fridays,6pm - 8pm,tech,tech,tech
+7574503701,35,2024-09-26, Fridays, 6pm - 8pm, UX/Psychology based startups,Fridays,6pm - 8pm,uxpsychology based startups,startup & entrepreneurship,startup & entrepreneurship
+7574504987,36,2024-09-26,Fridays,4pm - 6pm,Connection,Fridays,4pm - 6pm,connection,networking,networking
+7574504987,36,2024-09-26,Fridays,4pm - 6pm, technical skills,Fridays,4pm - 6pm,technical skills,tech,tech
+7574504987,36,2024-09-26,Fridays,4pm - 6pm, marketing,Fridays,4pm - 6pm,marketing,marketing & sales,marketing & sales
+7574504987,36,2024-09-26,Fridays, 6pm - 8pm,Connection,Fridays,6pm - 8pm,connection,networking,networking
+7574504987,36,2024-09-26,Fridays, 6pm - 8pm, technical skills,Fridays,6pm - 8pm,technical skills,tech,tech
+7574504987,36,2024-09-26,Fridays, 6pm - 8pm, marketing,Fridays,6pm - 8pm,marketing,marketing & sales,marketing & sales
+7574504987,36,2024-09-26, Saturdays,4pm - 6pm,Connection,Saturdays,4pm - 6pm,connection,networking,networking
+7574504987,36,2024-09-26, Saturdays,4pm - 6pm, technical skills,Saturdays,4pm - 6pm,technical skills,tech,tech
+7574504987,36,2024-09-26, Saturdays,4pm - 6pm, marketing,Saturdays,4pm - 6pm,marketing,marketing & sales,marketing & sales
+7574504987,36,2024-09-26, Saturdays, 6pm - 8pm,Connection,Saturdays,6pm - 8pm,connection,networking,networking
+7574504987,36,2024-09-26, Saturdays, 6pm - 8pm, technical skills,Saturdays,6pm - 8pm,technical skills,tech,tech
+7574504987,36,2024-09-26, Saturdays, 6pm - 8pm, marketing,Saturdays,6pm - 8pm,marketing,marketing & sales,marketing & sales
+7574504987,36,2024-09-26, Sundays,4pm - 6pm,Connection,Sundays,4pm - 6pm,connection,networking,networking
+7574504987,36,2024-09-26, Sundays,4pm - 6pm, technical skills,Sundays,4pm - 6pm,technical skills,tech,tech
+7574504987,36,2024-09-26, Sundays,4pm - 6pm, marketing,Sundays,4pm - 6pm,marketing,marketing & sales,marketing & sales
+7574504987,36,2024-09-26, Sundays, 6pm - 8pm,Connection,Sundays,6pm - 8pm,connection,networking,networking
+7574504987,36,2024-09-26, Sundays, 6pm - 8pm, technical skills,Sundays,6pm - 8pm,technical skills,tech,tech
+7574504987,36,2024-09-26, Sundays, 6pm - 8pm, marketing,Sundays,6pm - 8pm,marketing,marketing & sales,marketing & sales
+7574507077,37,2024-09-26,Fridays,4pm - 6pm,Networking,Fridays,4pm - 6pm,networking,networking,networking
+7574507077,37,2024-09-26,Fridays,4pm - 6pm, Brainstorming,Fridays,4pm - 6pm,brainstorming,tech,tech
+7574507077,37,2024-09-26,Fridays, 6pm - 8pm,Networking,Fridays,6pm - 8pm,networking,networking,networking
+7574507077,37,2024-09-26,Fridays, 6pm - 8pm, Brainstorming,Fridays,6pm - 8pm,brainstorming,tech,tech
+7574507077,37,2024-09-26, Saturdays,4pm - 6pm,Networking,Saturdays,4pm - 6pm,networking,networking,networking
+7574507077,37,2024-09-26, Saturdays,4pm - 6pm, Brainstorming,Saturdays,4pm - 6pm,brainstorming,tech,tech
+7574507077,37,2024-09-26, Saturdays, 6pm - 8pm,Networking,Saturdays,6pm - 8pm,networking,networking,networking
+7574507077,37,2024-09-26, Saturdays, 6pm - 8pm, Brainstorming,Saturdays,6pm - 8pm,brainstorming,tech,tech
+7574507077,37,2024-09-26, Sundays,4pm - 6pm,Networking,Sundays,4pm - 6pm,networking,networking,networking
+7574507077,37,2024-09-26, Sundays,4pm - 6pm, Brainstorming,Sundays,4pm - 6pm,brainstorming,tech,tech
+7574507077,37,2024-09-26, Sundays, 6pm - 8pm,Networking,Sundays,6pm - 8pm,networking,networking,networking
+7574507077,37,2024-09-26, Sundays, 6pm - 8pm, Brainstorming,Sundays,6pm - 8pm,brainstorming,tech,tech
+7574508202,38,2024-09-26,Thursdays,4pm - 6pm,nil,Thursdays,4pm - 6pm,,uncategorized,uncategorized
+7574509734,39,2024-09-26,Fridays,6pm - 8pm,nil,Fridays,6pm - 8pm,,uncategorized,uncategorized
+7574511451,40,2024-09-26,Mondays,4pm - 6pm,AI,Mondays,4pm - 6pm,ai,tech,tech
+7574511451,40,2024-09-26,Mondays,4pm - 6pm, Tech startup,Mondays,4pm - 6pm,tech startup,startup & entrepreneurship,startup & entrepreneurship
+7574511451,40,2024-09-26, Wednesdays,4pm - 6pm,AI,Wednesdays,4pm - 6pm,ai,tech,tech
+7574511451,40,2024-09-26, Wednesdays,4pm - 6pm, Tech startup,Wednesdays,4pm - 6pm,tech startup,startup & entrepreneurship,startup & entrepreneurship
+7574511451,40,2024-09-26, Fridays,4pm - 6pm,AI,Fridays,4pm - 6pm,ai,tech,tech
+7574511451,40,2024-09-26, Fridays,4pm - 6pm, Tech startup,Fridays,4pm - 6pm,tech startup,startup & entrepreneurship,startup & entrepreneurship
+7574513425,41,2024-09-26,Thursdays,4pm - 6pm,How to crack ICT jobs,Thursdays,4pm - 6pm,how to crack ict jobs,tech,tech
+7574515278,42,2024-09-26,Mondays,12pm - 2pm,Starting business,Mondays,12pm - 2pm,starting business,business,business
+7574515278,42,2024-09-26,Mondays,12pm - 2pm, networking,Mondays,12pm - 2pm,networking,networking,networking
+7574515278,42,2024-09-26,Mondays, 4pm - 6pm,Starting business,Mondays,4pm - 6pm,starting business,business,business
+7574515278,42,2024-09-26,Mondays, 4pm - 6pm, networking,Mondays,4pm - 6pm,networking,networking,networking
+7574515278,42,2024-09-26, Fridays,12pm - 2pm,Starting business,Fridays,12pm - 2pm,starting business,business,business
+7574515278,42,2024-09-26, Fridays,12pm - 2pm, networking,Fridays,12pm - 2pm,networking,networking,networking
+7574515278,42,2024-09-26, Fridays, 4pm - 6pm,Starting business,Fridays,4pm - 6pm,starting business,business,business
+7574515278,42,2024-09-26, Fridays, 4pm - 6pm, networking,Fridays,4pm - 6pm,networking,networking,networking
+7574516289,43,2024-09-26,Mondays,4pm - 6pm,nil,Mondays,4pm - 6pm,,uncategorized,uncategorized
+7574516289,43,2024-09-26,Mondays, 6pm - 8pm,nil,Mondays,6pm - 8pm,,uncategorized,uncategorized
+7574516289,43,2024-09-26, Tuesdays,4pm - 6pm,nil,Tuesdays,4pm - 6pm,,uncategorized,uncategorized
+7574516289,43,2024-09-26, Tuesdays, 6pm - 8pm,nil,Tuesdays,6pm - 8pm,,uncategorized,uncategorized
+7574516289,43,2024-09-26, Wednesdays,4pm - 6pm,nil,Wednesdays,4pm - 6pm,,uncategorized,uncategorized
+7574516289,43,2024-09-26, Wednesdays, 6pm - 8pm,nil,Wednesdays,6pm - 8pm,,uncategorized,uncategorized
+7574516289,43,2024-09-26, Thursdays,4pm - 6pm,nil,Thursdays,4pm - 6pm,,uncategorized,uncategorized
+7574516289,43,2024-09-26, Thursdays, 6pm - 8pm,nil,Thursdays,6pm - 8pm,,uncategorized,uncategorized
+7574516289,43,2024-09-26, Fridays,4pm - 6pm,nil,Fridays,4pm - 6pm,,uncategorized,uncategorized
+7574516289,43,2024-09-26, Fridays, 6pm - 8pm,nil,Fridays,6pm - 8pm,,uncategorized,uncategorized
+8907081097,44,2025-04-10,Thursdays,4pm - 6pm,-,Thursdays,4pm - 6pm,-,uncategorized,uncategorized
+8907083429,45,2025-04-10,Mondays,4pm - 6pm,Sparring and developing ideas,Mondays,4pm - 6pm,brainstorming and developing ideas,tech,tech
+8907083429,45,2025-04-10, Tuesdays,4pm - 6pm,Sparring and developing ideas,Tuesdays,4pm - 6pm,brainstorming and developing ideas,tech,tech
+8907083429,45,2025-04-10, Wednesdays,4pm - 6pm,Sparring and developing ideas,Wednesdays,4pm - 6pm,brainstorming and developing ideas,tech,tech
+8907083429,45,2025-04-10, Thursdays,4pm - 6pm,Sparring and developing ideas,Thursdays,4pm - 6pm,brainstorming and developing ideas,tech,tech
+8907083429,45,2025-04-10, Fridays,4pm - 6pm,Sparring and developing ideas,Fridays,4pm - 6pm,brainstorming and developing ideas,tech,tech
+8907085497,46,2025-04-10,Fridays,6pm - 8pm,Web3,Fridays,6pm - 8pm,web3,tech,tech
+8907100307,47,2025-04-10,Wednesdays,4pm - 6pm,Marketing for build up your own firm,Wednesdays,4pm - 6pm,marketing for build up your own firm,marketing & sales,marketing & sales
+8907198922,48,2025-04-10,Fridays,4pm - 6pm,Sales,Fridays,4pm - 6pm,sales,marketing & sales,marketing & sales
+8907198922,48,2025-04-10,Fridays,4pm - 6pm, finance,Fridays,4pm - 6pm,finance,finance & legal,finance & legal
+8907198922,48,2025-04-10,Fridays,4pm - 6pm, legal,Fridays,4pm - 6pm,legal,finance & legal,finance & legal
+8907256684,49,2025-04-10,Thursdays,6pm - 8pm,Businesses in trend ,Thursdays,6pm - 8pm,businesses in trend,business,business
+8907256684,49,2025-04-10,Thursdays,6pm - 8pm,beauty industry,Thursdays,6pm - 8pm,beauty industry,industry specific,specialized
+8907256684,49,2025-04-10, Fridays,6pm - 8pm,Businesses in trend ,Fridays,6pm - 8pm,businesses in trend,business,business
+8907256684,49,2025-04-10, Fridays,6pm - 8pm,beauty industry,Fridays,6pm - 8pm,beauty industry,industry specific,specialized
+8907256684,49,2025-04-10, Saturdays,6pm - 8pm,Businesses in trend ,Saturdays,6pm - 8pm,businesses in trend,business,business
+8907256684,49,2025-04-10, Saturdays,6pm - 8pm,beauty industry,Saturdays,6pm - 8pm,beauty industry,industry specific,specialized
+8907259768,50,2025-04-10,Fridays,6pm - 8pm,New business ideas,Fridays,6pm - 8pm,new business ideas,business,business
+8907276201,51,2025-04-10,Thursdays,6pm - 8pm,New latest business ideas,Thursdays,6pm - 8pm,new latest business ideas,business,business
+8907276201,51,2025-04-10, Fridays,6pm - 8pm,New latest business ideas,Fridays,6pm - 8pm,new latest business ideas,business,business
+8907383301,52,2025-04-10,Tuesdays,4pm - 6pm,Marketing,Tuesdays,4pm - 6pm,marketing,marketing & sales,marketing & sales
+8907612004,53,2025-04-10,Thursdays,6pm - 8pm,Networking,Thursdays,6pm - 8pm,networking,networking,networking
+8907612004,53,2025-04-10,Thursdays,6pm - 8pm, startups,Thursdays,6pm - 8pm,startups,startup & entrepreneurship,startup & entrepreneurship
+8907612004,53,2025-04-10,Thursdays,6pm - 8pm, funding,Thursdays,6pm - 8pm,funding,finance & legal,finance & legal
+8907612004,53,2025-04-10,Thursdays, 4pm - 6pm,Networking,Thursdays,4pm - 6pm,networking,networking,networking
+8907612004,53,2025-04-10,Thursdays, 4pm - 6pm, startups,Thursdays,4pm - 6pm,startups,startup & entrepreneurship,startup & entrepreneurship
+8907612004,53,2025-04-10,Thursdays, 4pm - 6pm, funding,Thursdays,4pm - 6pm,funding,finance & legal,finance & legal
+8907612004,53,2025-04-10, Fridays,6pm - 8pm,Networking,Fridays,6pm - 8pm,networking,networking,networking
+8907612004,53,2025-04-10, Fridays,6pm - 8pm, startups,Fridays,6pm - 8pm,startups,startup & entrepreneurship,startup & entrepreneurship
+8907612004,53,2025-04-10, Fridays,6pm - 8pm, funding,Fridays,6pm - 8pm,funding,finance & legal,finance & legal
+8907612004,53,2025-04-10, Fridays, 4pm - 6pm,Networking,Fridays,4pm - 6pm,networking,networking,networking
+8907612004,53,2025-04-10, Fridays, 4pm - 6pm, startups,Fridays,4pm - 6pm,startups,startup & entrepreneurship,startup & entrepreneurship
+8907612004,53,2025-04-10, Fridays, 4pm - 6pm, funding,Fridays,4pm - 6pm,funding,finance & legal,finance & legal
