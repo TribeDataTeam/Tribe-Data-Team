@@ -1,56 +1,91 @@
-id,index,Event Date,Pref_days,pref_times,pref_topic,Pref_days_cleaned,pref_times_cleaned,pref_topic_cleaned,category,final_category
-6719865025,0,2024-05-28,Thursdays,4pm - 6pm,.,Thursdays,4pm - 6pm,,uncategorized,uncategorized
-6719865025,0,2024-05-28, Wednesdays,4pm - 6pm,.,Wednesdays,4pm - 6pm,,uncategorized,uncategorized
-6719865025,0,2024-05-28, Tuesdays,4pm - 6pm,.,Tuesdays,4pm - 6pm,,uncategorized,uncategorized
-6731154293,4,2024-05-28,Mondays,9am - 12pm,Any topic,Mondays,9am - 12pm,any topic,uncategorized,uncategorized
-6731154293,4,2024-05-28,Mondays, 4pm - 6pm,Any topic,Mondays,4pm - 6pm,any topic,uncategorized,uncategorized
-6731154293,4,2024-05-28,Mondays, 6pm - 8pm,Any topic,Mondays,6pm - 8pm,any topic,uncategorized,uncategorized
-6731154293,4,2024-05-28, Thursdays,9am - 12pm,Any topic,Thursdays,9am - 12pm,any topic,uncategorized,uncategorized
-6731154293,4,2024-05-28, Thursdays, 4pm - 6pm,Any topic,Thursdays,4pm - 6pm,any topic,uncategorized,uncategorized
-6731154293,4,2024-05-28, Thursdays, 6pm - 8pm,Any topic,Thursdays,6pm - 8pm,any topic,uncategorized,uncategorized
-6731154293,4,2024-05-28, Fridays,9am - 12pm,Any topic,Fridays,9am - 12pm,any topic,uncategorized,uncategorized
-6731154293,4,2024-05-28, Fridays, 4pm - 6pm,Any topic,Fridays,4pm - 6pm,any topic,uncategorized,uncategorized
-6731154293,4,2024-05-28, Fridays, 6pm - 8pm,Any topic,Fridays,6pm - 8pm,any topic,uncategorized,uncategorized
-6731154293,4,2024-05-28, Saturdays,9am - 12pm,Any topic,Saturdays,9am - 12pm,any topic,uncategorized,uncategorized
-6731154293,4,2024-05-28, Saturdays, 4pm - 6pm,Any topic,Saturdays,4pm - 6pm,any topic,uncategorized,uncategorized
-6731154293,4,2024-05-28, Saturdays, 6pm - 8pm,Any topic,Saturdays,6pm - 8pm,any topic,uncategorized,uncategorized
-6731154293,4,2024-05-28, Sundays,9am - 12pm,Any topic,Sundays,9am - 12pm,any topic,uncategorized,uncategorized
-6731154293,4,2024-05-28, Sundays, 4pm - 6pm,Any topic,Sundays,4pm - 6pm,any topic,uncategorized,uncategorized
-6731154293,4,2024-05-28, Sundays, 6pm - 8pm,Any topic,Sundays,6pm - 8pm,any topic,uncategorized,uncategorized
-7574456170,27,2024-09-17,Tuesdays,2pm - 4pm, trends,Tuesdays,2pm - 4pm,trends,uncategorized,uncategorized
-7574456170,27,2024-09-17,Tuesdays, 4pm - 6pm, trends,Tuesdays,4pm - 6pm,trends,uncategorized,uncategorized
-7574456170,27,2024-09-17,Tuesdays, 6pm - 8pm, trends,Tuesdays,6pm - 8pm,trends,uncategorized,uncategorized
-7574456170,27,2024-09-17, Thursdays,2pm - 4pm, trends,Thursdays,2pm - 4pm,trends,uncategorized,uncategorized
-7574456170,27,2024-09-17, Thursdays, 4pm - 6pm, trends,Thursdays,4pm - 6pm,trends,uncategorized,uncategorized
-7574456170,27,2024-09-17, Thursdays, 6pm - 8pm, trends,Thursdays,6pm - 8pm,trends,uncategorized,uncategorized
-7574456170,27,2024-09-17, Saturdays,2pm - 4pm, trends,Saturdays,2pm - 4pm,trends,uncategorized,uncategorized
-7574456170,27,2024-09-17, Saturdays, 4pm - 6pm, trends,Saturdays,4pm - 6pm,trends,uncategorized,uncategorized
-7574456170,27,2024-09-17, Saturdays, 6pm - 8pm, trends,Saturdays,6pm - 8pm,trends,uncategorized,uncategorized
-7574498432,30,2024-09-17,Wednesdays,4pm - 6pm,nil,Wednesdays,4pm - 6pm,,uncategorized,uncategorized
-7574498432,30,2024-09-17, Thursdays,4pm - 6pm,nil,Thursdays,4pm - 6pm,,uncategorized,uncategorized
-7574498432,30,2024-09-17, Fridays,4pm - 6pm,nil,Fridays,4pm - 6pm,,uncategorized,uncategorized
-7574500029,32,2024-09-17,Thursdays,4pm - 6pm,nil,Thursdays,4pm - 6pm,,uncategorized,uncategorized
-7574500620,33,2024-09-17,Wednesdays,2pm - 4pm,nil,Wednesdays,2pm - 4pm,,uncategorized,uncategorized
-7574500620,33,2024-09-17,Wednesdays, 4pm - 6pm,nil,Wednesdays,4pm - 6pm,,uncategorized,uncategorized
-7574502084,34,2024-09-17,Tuesdays,2pm - 4pm,nil,Tuesdays,2pm - 4pm,,uncategorized,uncategorized
-7574502084,34,2024-09-17,Tuesdays, 4pm - 6pm,nil,Tuesdays,4pm - 6pm,,uncategorized,uncategorized
-7574502084,34,2024-09-17,Tuesdays, 6pm - 8pm,nil,Tuesdays,6pm - 8pm,,uncategorized,uncategorized
-7574502084,34,2024-09-17, Wednesdays,2pm - 4pm,nil,Wednesdays,2pm - 4pm,,uncategorized,uncategorized
-7574502084,34,2024-09-17, Wednesdays, 4pm - 6pm,nil,Wednesdays,4pm - 6pm,,uncategorized,uncategorized
-7574502084,34,2024-09-17, Wednesdays, 6pm - 8pm,nil,Wednesdays,6pm - 8pm,,uncategorized,uncategorized
-7574502084,34,2024-09-17, Thursdays,2pm - 4pm,nil,Thursdays,2pm - 4pm,,uncategorized,uncategorized
-7574502084,34,2024-09-17, Thursdays, 4pm - 6pm,nil,Thursdays,4pm - 6pm,,uncategorized,uncategorized
-7574502084,34,2024-09-17, Thursdays, 6pm - 8pm,nil,Thursdays,6pm - 8pm,,uncategorized,uncategorized
-7574508202,38,2024-09-26,Thursdays,4pm - 6pm,nil,Thursdays,4pm - 6pm,,uncategorized,uncategorized
-7574509734,39,2024-09-26,Fridays,6pm - 8pm,nil,Fridays,6pm - 8pm,,uncategorized,uncategorized
-7574516289,43,2024-09-26,Mondays,4pm - 6pm,nil,Mondays,4pm - 6pm,,uncategorized,uncategorized
-7574516289,43,2024-09-26,Mondays, 6pm - 8pm,nil,Mondays,6pm - 8pm,,uncategorized,uncategorized
-7574516289,43,2024-09-26, Tuesdays,4pm - 6pm,nil,Tuesdays,4pm - 6pm,,uncategorized,uncategorized
-7574516289,43,2024-09-26, Tuesdays, 6pm - 8pm,nil,Tuesdays,6pm - 8pm,,uncategorized,uncategorized
-7574516289,43,2024-09-26, Wednesdays,4pm - 6pm,nil,Wednesdays,4pm - 6pm,,uncategorized,uncategorized
-7574516289,43,2024-09-26, Wednesdays, 6pm - 8pm,nil,Wednesdays,6pm - 8pm,,uncategorized,uncategorized
-7574516289,43,2024-09-26, Thursdays,4pm - 6pm,nil,Thursdays,4pm - 6pm,,uncategorized,uncategorized
-7574516289,43,2024-09-26, Thursdays, 6pm - 8pm,nil,Thursdays,6pm - 8pm,,uncategorized,uncategorized
-7574516289,43,2024-09-26, Fridays,4pm - 6pm,nil,Fridays,4pm - 6pm,,uncategorized,uncategorized
-7574516289,43,2024-09-26, Fridays, 6pm - 8pm,nil,Fridays,6pm - 8pm,,uncategorized,uncategorized
-8907081097,44,2025-04-10,Thursdays,4pm - 6pm,-,Thursdays,4pm - 6pm,-,uncategorized,uncategorized
+id,index,Event Date,Pref_days,pref_times,pref_topic,category,final_category
+6719865025,0,2024-05-28,Thursdays,4pm - 6pm,,uncategorized,uncategorized
+6719865025,0,2024-05-28, Wednesdays,4pm - 6pm,,uncategorized,uncategorized
+6719865025,0,2024-05-28, Tuesdays,4pm - 6pm,,uncategorized,uncategorized
+6731154293,4,2024-05-28,Mondays,9am - 12pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28,Mondays, 4pm - 6pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28,Mondays, 6pm - 8pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28, Thursdays,9am - 12pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28, Thursdays, 4pm - 6pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28, Thursdays, 6pm - 8pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28, Fridays,9am - 12pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28, Fridays, 4pm - 6pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28, Fridays, 6pm - 8pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28, Saturdays,9am - 12pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28, Saturdays, 4pm - 6pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28, Saturdays, 6pm - 8pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28, Sundays,9am - 12pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28, Sundays, 4pm - 6pm,any topic,uncategorized,uncategorized
+6731154293,4,2024-05-28, Sundays, 6pm - 8pm,any topic,uncategorized,uncategorized
+6785453123,9,2024-06-06,Tuesdays,9am - 12pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06,Tuesdays, 2pm - 4pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06,Tuesdays, 12pm - 2pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06,Tuesdays, 4pm - 6pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06,Tuesdays, 6pm - 8pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Mondays,9am - 12pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Mondays, 2pm - 4pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Mondays, 12pm - 2pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Mondays, 4pm - 6pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Mondays, 6pm - 8pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Wednesdays,9am - 12pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Wednesdays, 2pm - 4pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Wednesdays, 12pm - 2pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Wednesdays, 4pm - 6pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Wednesdays, 6pm - 8pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Thursdays,9am - 12pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Thursdays, 2pm - 4pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Thursdays, 12pm - 2pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Thursdays, 4pm - 6pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Thursdays, 6pm - 8pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Fridays,9am - 12pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Fridays, 2pm - 4pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Fridays, 12pm - 2pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Fridays, 4pm - 6pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Fridays, 6pm - 8pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Saturdays,9am - 12pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Saturdays, 2pm - 4pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Saturdays, 12pm - 2pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Saturdays, 4pm - 6pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Saturdays, 6pm - 8pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Sundays,9am - 12pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Sundays, 2pm - 4pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Sundays, 12pm - 2pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Sundays, 4pm - 6pm,matching companies and people who has required expertise,uncategorized,uncategorized
+6785453123,9,2024-06-06, Sundays, 6pm - 8pm,matching companies and people who has required expertise,uncategorized,uncategorized
+7574456170,27,2024-09-17,Tuesdays,2pm - 4pm,trends,uncategorized,uncategorized
+7574456170,27,2024-09-17,Tuesdays, 4pm - 6pm,trends,uncategorized,uncategorized
+7574456170,27,2024-09-17,Tuesdays, 6pm - 8pm,trends,uncategorized,uncategorized
+7574456170,27,2024-09-17, Thursdays,2pm - 4pm,trends,uncategorized,uncategorized
+7574456170,27,2024-09-17, Thursdays, 4pm - 6pm,trends,uncategorized,uncategorized
+7574456170,27,2024-09-17, Thursdays, 6pm - 8pm,trends,uncategorized,uncategorized
+7574456170,27,2024-09-17, Saturdays,2pm - 4pm,trends,uncategorized,uncategorized
+7574456170,27,2024-09-17, Saturdays, 4pm - 6pm,trends,uncategorized,uncategorized
+7574456170,27,2024-09-17, Saturdays, 6pm - 8pm,trends,uncategorized,uncategorized
+7574498432,30,2024-09-17,Wednesdays,4pm - 6pm,,uncategorized,uncategorized
+7574498432,30,2024-09-17, Thursdays,4pm - 6pm,,uncategorized,uncategorized
+7574498432,30,2024-09-17, Fridays,4pm - 6pm,,uncategorized,uncategorized
+7574500029,32,2024-09-17,Thursdays,4pm - 6pm,,uncategorized,uncategorized
+7574500620,33,2024-09-17,Wednesdays,2pm - 4pm,,uncategorized,uncategorized
+7574500620,33,2024-09-17,Wednesdays, 4pm - 6pm,,uncategorized,uncategorized
+7574502084,34,2024-09-17,Tuesdays,2pm - 4pm,,uncategorized,uncategorized
+7574502084,34,2024-09-17,Tuesdays, 4pm - 6pm,,uncategorized,uncategorized
+7574502084,34,2024-09-17,Tuesdays, 6pm - 8pm,,uncategorized,uncategorized
+7574502084,34,2024-09-17, Wednesdays,2pm - 4pm,,uncategorized,uncategorized
+7574502084,34,2024-09-17, Wednesdays, 4pm - 6pm,,uncategorized,uncategorized
+7574502084,34,2024-09-17, Wednesdays, 6pm - 8pm,,uncategorized,uncategorized
+7574502084,34,2024-09-17, Thursdays,2pm - 4pm,,uncategorized,uncategorized
+7574502084,34,2024-09-17, Thursdays, 4pm - 6pm,,uncategorized,uncategorized
+7574502084,34,2024-09-17, Thursdays, 6pm - 8pm,,uncategorized,uncategorized
+7574508202,38,2024-09-26,Thursdays,4pm - 6pm,,uncategorized,uncategorized
+7574509734,39,2024-09-26,Fridays,6pm - 8pm,,uncategorized,uncategorized
+7574516289,43,2024-09-26,Mondays,4pm - 6pm,,uncategorized,uncategorized
+7574516289,43,2024-09-26,Mondays, 6pm - 8pm,,uncategorized,uncategorized
+7574516289,43,2024-09-26, Tuesdays,4pm - 6pm,,uncategorized,uncategorized
+7574516289,43,2024-09-26, Tuesdays, 6pm - 8pm,,uncategorized,uncategorized
+7574516289,43,2024-09-26, Wednesdays,4pm - 6pm,,uncategorized,uncategorized
+7574516289,43,2024-09-26, Wednesdays, 6pm - 8pm,,uncategorized,uncategorized
+7574516289,43,2024-09-26, Thursdays,4pm - 6pm,,uncategorized,uncategorized
+7574516289,43,2024-09-26, Thursdays, 6pm - 8pm,,uncategorized,uncategorized
+7574516289,43,2024-09-26, Fridays,4pm - 6pm,,uncategorized,uncategorized
+7574516289,43,2024-09-26, Fridays, 6pm - 8pm,,uncategorized,uncategorized
+8907081097,44,2025-04-10,Thursdays,4pm - 6pm,-,uncategorized,uncategorized
