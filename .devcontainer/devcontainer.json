@@ -17,7 +17,12 @@
 				"ms-toolsai.jupyter",
 				"ms-python.python",
 				"charliermarsh.ruff"
-			]
+			],
+			"settings": {
+				"files.eol": "\n",
+				"files.insertFinalNewline": true,
+				"files.trimTrailingWhitespace": true
+			}
 		}
 	}
 	// Configure tool-specific properties.

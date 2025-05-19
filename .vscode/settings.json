@@ -17,5 +17,9 @@
     },
     // Ruff specific settings
     "ruff.lint.onSave": true,
-    "ruff.organizeImports": true
+    "ruff.organizeImports": true,
+    // Line ending configuration for cross-platform consistency
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true
 }
