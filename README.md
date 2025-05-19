@@ -1,6 +1,8 @@
 # Tribe-Data-Team
 This houses all codes for the teams projects, data pipeline and analytics.
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/TribeDataTeam/Tribe-Data-Team?quickstart=1)
+
 ## Development Setup
 
 ### Virtual Environment
