@@ -60,6 +60,7 @@ jupyterlab==4.4.2
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.27.3
 kiwisolver==1.4.8
+Levenshtein==0.27.1
 MarkupSafe==3.0.2
 matplotlib==3.10.3
 matplotlib-inline==0.1.7
@@ -94,9 +95,11 @@ Pygments==2.19.1
 pyparsing==3.2.3
 python-dateutil==2.9.0.post0
 python-json-logger==3.3.0
+python-Levenshtein==0.27.1
 pytz==2025.2
 PyYAML==6.0.2
 pyzmq==26.4.0
+RapidFuzz==3.13.0
 referencing==0.36.2
 requests==2.32.3
 rfc3339-validator==0.1.4
