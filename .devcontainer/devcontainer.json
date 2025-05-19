@@ -16,7 +16,9 @@
 			"extensions": [
 				"ms-toolsai.jupyter",
 				"ms-python.python",
-				"charliermarsh.ruff"
+				"charliermarsh.ruff",
+				"ms-toolsai.datawrangler",
+				"ms-toolsai.python-ds-extension-pack"
 			],
 			"settings": {
 				"files.eol": "\n",
