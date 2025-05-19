@@ -1,12 +1,6 @@
 {
-    // Enable Ruff for Python files
-    "python.linting.enabled": true,
-    "python.linting.flake8Enabled": false,
-    "python.linting.ruffEnabled": true,
-    // Set Ruff as the default formatter for Python files
+    // Modern formatting configuration
     "editor.formatOnSave": true,
-    "python.formatting.provider": "none",
-    "editor.defaultFormatter": null,
     "[python]": {
         "editor.defaultFormatter": "charliermarsh.ruff",
         "editor.formatOnSave": true,
@@ -16,13 +10,13 @@
         }
     },
     // Ruff specific settings
-    "ruff.lint.onSave": true,
+    "ruff.enable": true,
     "ruff.organizeImports": true,
+    "ruff.fixAll": true,
     // Line ending configuration for cross-platform consistency
     "files.eol": "\n",
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
-
     // Jupyter notebook kernel configuration
     "python.defaultInterpreterPath": "/usr/local/bin/python",
     "jupyter.interactiveWindow.cellMarker.codeRegex": "^# ?%%|^# ?<codecell>|^# ?In\\[\\d*\\]:|^# ?In\\[ \\]:",
