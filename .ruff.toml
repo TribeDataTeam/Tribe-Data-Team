@@ -1,9 +1,8 @@
 # Ruff configuration file
 
-# Enable flake8-bugbear (`B`) rules.
-select = ["E", "F", "B", "I"]
-
-# Exclude a variety of commonly ignored directories.
+# Global settings
+line-length = 88
+target-version = "py312"
 exclude = [
     ".git",
     ".venv",
@@ -12,14 +11,12 @@ exclude = [
     "dist",
 ]
 
-# Same as Black.
-line-length = 88
+[lint]
+# Enable flake8-bugbear (`B`) rules.
+select = ["E", "F", "B", "I"]
 
 # Allow unused variables when underscore-prefixed.
 dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$"
-
-# Assume Python 3.12
-target-version = "py312"
 
 [format]
 # Use double quotes for strings.
