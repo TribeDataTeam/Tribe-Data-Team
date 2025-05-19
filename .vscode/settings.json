@@ -21,5 +21,14 @@
     // Line ending configuration for cross-platform consistency
     "files.eol": "\n",
     "files.insertFinalNewline": true,
-    "files.trimTrailingWhitespace": true
+    "files.trimTrailingWhitespace": true,
+
+    // Jupyter notebook kernel configuration
+    "python.defaultInterpreterPath": "/usr/local/bin/python",
+    "jupyter.interactiveWindow.cellMarker.codeRegex": "^# ?%%|^# ?<codecell>|^# ?In\\[\\d*\\]:|^# ?In\\[ \\]:",
+    "jupyter.interactiveWindow.cellMarker.markdownRegex": "^# ?%%\\s*\\[markdown\\]|^# ?<markdowncell>",
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "jupyter.askForKernelRestart": false,
+    "python.terminal.activateEnvironment": true,
+    "python.terminal.activateEnvInCurrentTerminal": true
 }
