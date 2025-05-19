@@ -1,1 +1,13 @@
+# Ignore virtual environment
 tribe_analytics/
+
+# Ignore sensitive files
+*.csv
+client_secrets.json
+credentials.json
+*.yaml
+
+# Ignore temporary files
+bfg-*.jar
+*-mirror.git/
+*-mirror.git.bfg-report/
