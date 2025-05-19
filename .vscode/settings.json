@@ -1,0 +1,21 @@
+{
+    // Enable Ruff for Python files
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": false,
+    "python.linting.ruffEnabled": true,
+    // Set Ruff as the default formatter for Python files
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "none",
+    "editor.defaultFormatter": null,
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.fixAll.ruff": true,
+            "source.organizeImports.ruff": true
+        }
+    },
+    // Ruff specific settings
+    "ruff.lint.onSave": true,
+    "ruff.organizeImports": true
+}

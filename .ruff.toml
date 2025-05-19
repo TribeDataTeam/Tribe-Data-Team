@@ -1,0 +1,40 @@
+# Ruff configuration file
+
+# Enable flake8-bugbear (`B`) rules.
+select = ["E", "F", "B", "I"]
+
+# Exclude a variety of commonly ignored directories.
+exclude = [
+    ".git",
+    ".venv",
+    "__pycache__",
+    "build",
+    "dist",
+]
+
+# Same as Black.
+line-length = 88
+
+# Allow unused variables when underscore-prefixed.
+dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$"
+
+# Assume Python 3.12
+target-version = "py312"
+
+[format]
+# Use double quotes for strings.
+quote-style = "double"
+
+# Indent with spaces.
+indent-style = "space"
+
+# Respect magic trailing commas.
+skip-magic-trailing-comma = false
+
+[lint.isort]
+# Use known-first-party to define packages that should be considered first-party.
+known-first-party = ["src"]
+
+[lint.pycodestyle]
+# Allow lines to be as long as 88 characters.
+max-line-length = 88
