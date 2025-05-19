@@ -1,1 +1,24 @@
+# Virtual environments
 tribe_analytics/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sensitive files
+client_secrets.json
+credentials.json
+
+# Data files
+*.csv
+*.yaml
+*.pdf
+*.xls
+*.xlsx
+*.pbix
+*.jpg
+*.jpeg
+*.png
+
+# Temporary files
+bfg-*.jar
